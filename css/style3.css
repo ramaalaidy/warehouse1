@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.text{
+    text-align: right;
+}
+.txt{
+    text-decoration: overline;
+    text-align: center;
+}
+.txts{
+    text-decoration: line-through;
+}

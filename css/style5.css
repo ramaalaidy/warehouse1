@@ -1,0 +1,35 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1{
+    text-align: center;
+}
+.h4{
+    text-align: center;
+    text-transform: uppercase;
+    font-style:oblique
+}
+body{
+background-image: url("../pic/del-piero-e1550141190194.jpg");
+background-size: cover;
+}
+.h3{
+text-decoration: underline;
+color: red;
+text-align: left;
+
+}
+.p{
+    text-align: left;
+}
+.sp{
+
+    text-align: left;
+    color: red;
+    background-color: yellow;
+    
+
+}

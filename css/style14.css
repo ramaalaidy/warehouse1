@@ -1,0 +1,23 @@
+body{
+    background-color: #ffffcc;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2;
+    font-size: 13px;
+}
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: brown;
+}
+.mark1{
+    background-color: aqua;
+}
+.mark2{
+    background-color: #ff00ff;
+}
+.mark3{
+    background-color: red;
+}

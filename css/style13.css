@@ -1,0 +1,9 @@
+body {
+    
+    height: 100vh;
+    background: 
+        url('../Img/more-leaves.png') repeat-y , 
+        url('../Img/seamless-herring-bone-tiles-ceramic-brick-wall-pattern-white-kitchen-background-apron-texture_171739-3116.jpg')repeat-x;
+        
+    background-size: 20% auto, auto 20%;
+}

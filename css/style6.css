@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  h2 {
+    color: red;
+    text-decoration: underline;
+  }
+  .read {
+    color: red;
+    font-family: sans-serif;
+  }
+  div {
+    background-image: url("C:\Users\Orange\Desktop\WhatsApp Image 2024-12-12 at 9.38.25 AM.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+.my-imge{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}

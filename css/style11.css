@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.frame{
+    
+    background-color:#ffe4b5;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    border: 1pt solid black;
+   
+
+
+}
+form{
+    margin: 35px;
+
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color:#cd5c5c ;
+    font-family: cursive;
+    display: inline-block;
+    
+}
+.input1{
+    border: 0cap;
+    font-size: 10px;
+    width: 100%;
+}
+.submit{
+    background-color: #ffd700;
+    text-align: center;
+    width: 100%;
+}

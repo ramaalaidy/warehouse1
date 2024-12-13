@@ -1,0 +1,12 @@
+.reg{
+    
+    grid-column: span 2;
+    text-align: center;
+    background-color: rgb(251, 252, 173);
+   font-weight: bold;
+    color: red;
+}
+td{
+    background-color: #00ccff;
+    font-size: 12px;
+}

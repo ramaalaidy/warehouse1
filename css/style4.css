@@ -1,0 +1,46 @@
+*{
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.h1{
+text-align: center;
+background-color:rgb(45, 10, 110) 
+
+}
+.p1
+{
+text-align: center;
+text-transform: capitalize;
+background-color:rgb(203, 218, 218) 
+}
+.h2{
+text-align: left;
+text-decoration: underline;
+color: red;
+background-color: rgb(191, 185, 185) ;
+}
+.p2{
+background-color: rgb(191, 185, 185) ;
+text-align: left;
+
+}
+.p3{
+ 
+  background-color:rgb(191, 185, 185) ;
+  text-align: left;
+
+}
+.footer
+{
+  background-color:rgb(45, 10, 110) ;
+text-align: center;
+}
+.footer1{
+  background-color:rgb(45, 10, 110) ;
+text-align: center;
+
+
+}
